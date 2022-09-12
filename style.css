@@ -1,0 +1,40 @@
+
+.color-red{
+    color: rgb(162, 43, 43);
+}
+
+.middle{
+    text-align: center;
+}
+
+.middle-table{
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row-middle{
+
+    text-align: center;
+    vertical-align: middle;
+}
+
+.font40{
+    font-size: 40px;
+}
+
+.body{
+
+    background-color: rgb(205, 202, 202);
+}
+
+.input-size{
+    width: 200px;
+    height:30px; 
+}
+
+.padding-to-left{
+    padding-left: 50px;
+}
+
+
