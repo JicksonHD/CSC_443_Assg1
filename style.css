@@ -3,6 +3,14 @@
     color: rgb(162, 43, 43);
 }
 
+.color-grey{
+    color: grey;
+}
+
+.dateHint-placement{
+    margin-left:20px;
+}
+
 .middle{
     text-align: center;
 }
@@ -69,9 +77,52 @@
     background-color: grey;
 }
 
-.first-header{
+.first-header1{
 
-    margin-right: 175px;
+   
 }
 
+.first-header2{
 
+    
+
+}
+
+.radio-button-right{
+    margin-left: 25px;
+    
+}
+
+.radio-button-left{
+    margin-right: 30px;
+}
+
+.radio-button-right2{
+    margin-left: 27px;
+}
+
+.radio-button-right22{
+    margin-left: 242px;
+}
+
+.radio-button-right3{
+    margin-left: 27px;
+}
+
+.radio-button-right33{
+    margin-left: 200px;
+}
+
+.radio-button-right4{
+    margin-left: 27px;
+}
+
+.radio-button-right44{
+    margin-left: 200px;
+}
+
+.textbox-placement{
+    margin-right: 30px;
+    justify-content: center;
+    align-items: center;
+}
