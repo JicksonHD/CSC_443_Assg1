@@ -3,6 +3,8 @@
     color: rgb(162, 43, 43);
 }
 
+
+
 .color-grey{
     color: grey;
 }
@@ -38,7 +40,7 @@
 
 .input-size{
     width: 200px;
-    height:30px; 
+    height: 35px; 
 }
 
 .padding-to-left{
@@ -54,8 +56,20 @@
     color:darkgrey;
 }
 
+.button {
+    border: none;
+    background-color: rgb(59, 58, 58);
+    background-image: linear-gradient(to right, #474545 0%, #83807f 51%, #474545 100%);
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    height: 30px;
+    width: 130px;
+}
 
-.button-middle{
+
+/* .button-middle{
 
   height: 200px;
   position: relative;
@@ -64,7 +78,7 @@
   top: 50%;
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
-}
+} */
 
 .flex-container {
     margin-top: 10px;
@@ -73,10 +87,10 @@
     align-items: center;
 }
 
-.button{
+/* .button{
     padding: 15px 12px;
     background-color: rgb(105, 103, 103);
-}
+} */
 
 .first-header1{
 
